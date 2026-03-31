@@ -58,6 +58,9 @@ A hands-on bookkeeping project completed in Xero (cloud accounting software), si
 
 <img width="479" height="425" alt="image" src="https://github.com/user-attachments/assets/0a75abca-d39c-47df-a025-0e6d5b85447d" />
 
+<img width="948" height="436" alt="image" src="https://github.com/user-attachments/assets/77d91847-066e-4604-bdb4-c759a426547b" />
+
+
 
 ## Why This Project Matters
 
