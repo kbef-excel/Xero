@@ -49,13 +49,15 @@ A hands-on bookkeeping project completed in Xero (cloud accounting software), si
 
 > Screenshots are included below as visual proof of each step completed in Xero.
 
-<!-- Add your screenshots here -->
-<!-- Example: -->
-<!-- ![Invoice](screenshots/invoice.png) -->
-<!-- ![Payment](screenshots/payment.png) -->
-<!-- ![Reconciliation](screenshots/reconciliation.png) -->
+<img width="1919" height="796" alt="Screenshot 2026-03-31 230520" src="https://github.com/user-attachments/assets/27169b6b-0bd5-4dea-a840-8b40b9a4a05c" />
 
----
+
+<img width="1870" height="826" alt="Screenshot 2026-03-31 225535" src="https://github.com/user-attachments/assets/d0cc0953-632c-4889-a609-c70f369fdcbe" />
+
+<img width="1835" height="881" alt="Screenshot 2026-03-31 225423" src="https://github.com/user-attachments/assets/936f4f47-1b54-43f6-9964-0d26b6926270" />
+
+<img width="479" height="425" alt="image" src="https://github.com/user-attachments/assets/0a75abca-d39c-47df-a025-0e6d5b85447d" />
+
 
 ## Why This Project Matters
 
